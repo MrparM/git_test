@@ -1,4 +1,4 @@
 # git_test
 Odin Project Git Practice repository
 
-Please Read me!!
+This is Mit's first git project!
